@@ -1,0 +1,13 @@
+/*
+Theme Name: Bi-Polar Diary
+Theme URI: http://localhost/wp_diary/wordpress/
+Author: Nimrod Sridi
+Author URI: https://github.com/oZagreuso
+Description: My Life
+Requires at least: WordPress 6.0
+Version: 4.3
+*/
+
+.body-header {
+    background-color: #7C5DA7;
+}
