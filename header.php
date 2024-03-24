@@ -20,10 +20,7 @@
         else:
             echo "Bonjour et bienvenue !";
         endif; ?>
-
-        <a href="<?php echo home_url( '/' ); ?>">
-            <img src="<?php echo get_template_directory_uri(); ?>/img/cover.svg" alt="cover">
-        </a>  
+        
     </header>
 
 </section>
